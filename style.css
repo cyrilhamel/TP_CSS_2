@@ -1,0 +1,16 @@
+h1{color: red;
+text-align: center;}
+h3{color: blue;
+font-size: 1.6em;
+}
+.p1{background-color: gray;}
+strong{font-weight: normal;
+color: yellowgreen;}
+em{font-style: normal;
+font-size: 1.2em;
+color: orange;
+text-decoration:underline ;}
+#p3{color: pink;}
+#bn{color: green;
+text-decoration: underline;
+text-align: right;}
